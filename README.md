@@ -124,7 +124,7 @@ We evaluate every model across **three core dimensions**:
 - **Nano Banana 2** is the only model with **Google Search grounding** — it can reference real-time brands, events, and public figures.
 - **Seedream v5.0 Lite Sequential** can produce **up to 15 images per request**, dramatically lowering effective per-image cost.
 - **Flux Dev** is the only model with a **thriving LoRA ecosystem** (10,000+ community models on Civitai).
-- **Wan 2.6** is the only fully **open-source** model — run it locally with zero API cost.
+- **Wan 2.1/2.2** are open-source (Apache 2.0) — run locally with zero API cost. **Wan 2.5/2.6** are closed-source commercial APIs.
 
 ---
 
@@ -211,13 +211,14 @@ We evaluate every model across **three core dimensions**:
 <tr>
 <td>
 
-**Wan 2.6**
+**Wan 2.1/2.2 (Open Source) & Wan 2.5/2.6 (API)**
 </td>
 <td>
 
-- **Fully open source** — MIT-licensed, run locally on consumer GPUs
+- **Wan 2.1/2.2 are fully open source** — Apache 2.0 licensed, run locally on consumer GPUs
+- **Wan 2.5/2.6 are closed-source** commercial APIs with improved quality
 - Both T2I and editing capabilities
-- Zero API cost when self-hosted
+- Zero API cost when self-hosting Wan 2.1/2.2
 - Active community with rapid improvements
 </td>
 </tr>
@@ -322,7 +323,7 @@ We evaluate every model across **three core dimensions**:
 | **Batch Content** | Seedream v5.0 Seq | **~$2.13** (÷15) | ~2K | 15 images per request |
 | **Custom Styles** | Flux Dev LoRA | **~$15** | ~2K | Infinite style variety |
 | **Hero / Key Visual** | Imagen4 Ultra | **~$150** | 4K | Maximum fidelity |
-| **Open-Source / Local** | Wan 2.6 | **$0** (self-host) | ~2K | No API cost |
+| **Open-Source / Local** | Wan 2.1/2.2 | **$0** (self-host) | ~2K | No API cost |
 
 ---
 
@@ -491,7 +492,7 @@ For generating consistent characters, products, or styles across multiple images
 | **Best Value** | Flux Dev ($0.012!) | 12B-param quality at the industry's lowest price |
 | **Best Typography** | Seedream v5.0 | Purpose-built for text-in-image perfection |
 | **Best Customization** | Flux Dev + LoRA | 10,000+ styles, open weights |
-| **Best Open Source** | Wan 2.6 | MIT license, self-host, zero API cost |
+| **Best Open Source** | Wan 2.1/2.2 | Apache 2.0 license, self-host, zero API cost |
 | **Best Batch** | Seedream v5.0 Sequential | 15 images per request, ~$0.002/image |
 | **Best Editing** | Nano Banana 2 Edit | Inpainting, outpainting, 14 reference images |
 
@@ -529,14 +530,14 @@ START: What do you need?
 ├─ "Image editing"
 │   ├─ Best quality? → Nano Banana 2 Edit
 │   ├─ Style transfer? → Flux Kontext Dev
-│   └─ Open source? → Wan 2.6 Image Edit
+│   └─ Open source? → Wan 2.1/2.2
 │
 ├─ "NSFW / uncensored"
 │   ├─ API? → Flux Dev on Atlas Cloud ($0.012)
 │   └─ Local? → Wan 2.6 (self-host)
 │
 └─ "Open source / self-hosted"
-    └─➡️  Wan 2.6 (MIT license)
+    └─➡️  Wan 2.1/2.2 (Apache 2.0 license)
 ```
 
 ---
