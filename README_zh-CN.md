@@ -16,7 +16,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Last Updated](https://img.shields.io/badge/最后更新-2026年3月-blue.svg)](#)
 [![Models Compared](https://img.shields.io/badge/对比模型数-20-green.svg)](#2-规格参数对比)
-[![Atlas Cloud](https://img.shields.io/badge/在线体验-Atlas%20Cloud-purple.svg)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/在线体验-Atlas%20Cloud-purple.svg)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)
 
 **[English](README.md)** · **[简体中文](README_zh-CN.md)** · **[日本語](README_ja.md)** · **[한국어](README_ko.md)**
 
@@ -71,7 +71,7 @@
 | **价格** | 不同分辨率下的单张图像成本 | 预算规划与投资回报率 |
 | **质量** | 照片写实度、文字渲染、风格范围、提示词遵循度 | 最终输出可用性 |
 
-> 所有基准测试均于 2026 年 3 月通过 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 统一 API 完成。价格反映 Atlas Cloud 费率，包含最高 **90% 的折扣**。
+> 所有基准测试均于 2026 年 3 月通过 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** 统一 API 完成。价格反映 Atlas Cloud 费率，包含最高 **90% 的折扣**。
 
 ### 参评模型一览
 
@@ -546,7 +546,7 @@
 
 ## 7. 快速开始 — 试用任意模型
 
-所有模型均可通过 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 统一 API 端点访问，30 秒即可上手。
+所有模型均可通过 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** 统一 API 端点访问，30 秒即可上手。
 
 ### cURL
 
@@ -661,7 +661,7 @@ print(f"\n总计生成 {len(data['data'])} 张图像，总花费 $0.032")
 
 取决于你的具体需求：
 - **最佳质量：** Imagen4 Ultra（Google）
-- **最佳性价比：** Flux Dev，通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 仅 $0.012/张
+- **最佳性价比：** Flux Dev，通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison) 仅 $0.012/张
 - **最佳全能：** Nano Banana 2（4K、快速、Google 搜索、编辑）
 - **最佳文字/海报：** Seedream v5.0（字节跳动）
 
@@ -690,7 +690,7 @@ Nano Banana 2 相比 Midjourney v6 有以下优势：
 
 ### "最便宜的 AI 图像 API 是什么？"
 
-在 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 上：
+在 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** 上：
 
 | 模型 | 单张价格 |
 |:-----|:---------|
@@ -709,11 +709,11 @@ Nano Banana 2 相比 Midjourney v6 有以下优势：
 
 ### "哪个 AI 可以生成 NSFW 图像？"
 
-**Flux Dev**（通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)）提供无审查生成，仅 **$0.012/张** — 最便宜的无审查选项。**Wan 2.6** 也可自托管用于无限制本地生成。
+**Flux Dev**（通过 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)）提供无审查生成，仅 **$0.012/张** — 最便宜的无审查选项。**Wan 2.6** 也可自托管用于无限制本地生成。
 
 ### "如何获得 Nano Banana 2 九折优惠？"
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 通过优化基础设施和批量折扣提供 **最高 90% 的折扣**。注册即可获得 **首次充值 25% 奖金**（最高 $100 奖金）。
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison) 通过优化基础设施和批量折扣提供 **最高 90% 的折扣**。注册即可获得 **首次充值 25% 奖金**（最高 $100 奖金）。
 
 ---
 
@@ -733,7 +733,7 @@ Nano Banana 2 相比 Midjourney v6 有以下优势：
 
 <br>
 
-### **[在 Atlas Cloud 免费开始](https://www.atlascloud.ai?ref=JPM683)**
+### **[在 Atlas Cloud 免费开始](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)**
 
 <br>
 
@@ -808,7 +808,7 @@ SOFTWARE.
 
 **用数据说话，不靠炒作。**
 
-*最后更新：2026 年 3 月 — 价格和功能可能变动，请始终在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 上验证最新信息。*
+*最后更新：2026 年 3 月 — 价格和功能可能变动，请始终在 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison) 上验证最新信息。*
 
 [回到顶部](#ai-图像模型对比-2026)
 

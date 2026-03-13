@@ -16,7 +16,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Last Updated](https://img.shields.io/badge/최종%20업데이트-2026년%203월-blue.svg)](#)
 [![Models Compared](https://img.shields.io/badge/비교%20모델-20-green.svg)](#2-사양-비교)
-[![Atlas Cloud](https://img.shields.io/badge/체험하기-Atlas%20Cloud-purple.svg)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/체험하기-Atlas%20Cloud-purple.svg)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)
 
 **[English](README.md)** · **[简体中文](README_zh-CN.md)** · **[日本語](README_ja.md)** · **[한국어](README_ko.md)**
 
@@ -69,7 +69,7 @@
 | **가격** | 각 해상도별 이미지당 비용 | 예산 계획 및 ROI |
 | **품질** | 사진 사실감, 텍스트 렌더링, 스타일 범위, 프롬프트 충실도 | 최종 출력 활용도 |
 
-> 모든 벤치마크는 2026년 3월 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 통합 API를 통해 수행되었습니다. 가격은 최대 **90% 할인**이 포함된 Atlas Cloud 요금을 반영합니다.
+> 모든 벤치마크는 2026년 3월 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** 통합 API를 통해 수행되었습니다. 가격은 최대 **90% 할인**이 포함된 Atlas Cloud 요금을 반영합니다.
 
 ### 평가 대상 모델 목록
 
@@ -544,7 +544,7 @@
 
 ## 7. 빠른 시작 — 모든 모델 체험
 
-모든 모델은 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 통합 API 엔드포인트로 접근 가능합니다. 30초 만에 시작하세요.
+모든 모델은 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** 통합 API 엔드포인트로 접근 가능합니다. 30초 만에 시작하세요.
 
 ### cURL
 
@@ -659,7 +659,7 @@ print(f"\n총 {len(data['data'])}장 이미지 생성, 총 비용 $0.032")
 
 구체적인 필요에 따라 다릅니다:
 - **최고 품질:** Imagen4 Ultra (Google)
-- **최고 가성비:** Flux Dev, [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)에서 $0.012/장
+- **최고 가성비:** Flux Dev, [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)에서 $0.012/장
 - **최고 올라운드:** Nano Banana 2 (4K, 고속, Google 검색, 편집)
 - **최고 텍스트/포스터:** Seedream v5.0 (ByteDance)
 
@@ -679,7 +679,7 @@ print(f"\n총 {len(data['data'])}장 이미지 생성, 총 비용 $0.032")
 
 ### "가장 저렴한 AI 이미지 API는?"
 
-**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**에서의 가격:
+**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)**에서의 가격:
 
 | 모델 | 장당 가격 |
 |:-----|:---------|
@@ -698,11 +698,11 @@ print(f"\n총 {len(data['data'])}장 이미지 생성, 총 비용 $0.032")
 
 ### "NSFW를 생성할 수 있는 AI는?"
 
-**Flux Dev** ([Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) 경유)는 **$0.012/장**으로 검열 없는 생성을 제공 — 가장 저렴한 무검열 옵션. **Wan 2.6**도 셀프 호스팅으로 무제한 로컬 생성이 가능합니다.
+**Flux Dev** ([Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison) 경유)는 **$0.012/장**으로 검열 없는 생성을 제공 — 가장 저렴한 무검열 옵션. **Wan 2.6**도 셀프 호스팅으로 무제한 로컬 생성이 가능합니다.
 
 ### "Nano Banana 2를 90% 할인으로 사용하려면?"
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)는 최적화된 인프라와 볼륨 할인으로 **최대 90% 할인**을 제공합니다. 가입하면 **첫 충전 25% 보너스** (최대 $100 보너스)를 받을 수 있습니다.
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)는 최적화된 인프라와 볼륨 할인으로 **최대 90% 할인**을 제공합니다. 가입하면 **첫 충전 25% 보너스** (최대 $100 보너스)를 받을 수 있습니다.
 
 ---
 
@@ -722,7 +722,7 @@ print(f"\n총 {len(data['data'])}장 이미지 생성, 총 비용 $0.032")
 
 <br>
 
-### **[Atlas Cloud에서 무료로 시작하기](https://www.atlascloud.ai?ref=JPM683)**
+### **[Atlas Cloud에서 무료로 시작하기](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)**
 
 <br>
 
@@ -797,7 +797,7 @@ SOFTWARE.
 
 **데이터에 기반하여, 과대광고 없이.**
 
-*최종 업데이트: 2026년 3월 — 가격과 기능은 변경될 수 있습니다. 최신 정보는 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)에서 확인하세요.*
+*최종 업데이트: 2026년 3월 — 가격과 기능은 변경될 수 있습니다. 최신 정보는 [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)에서 확인하세요.*
 
 [맨 위로 돌아가기](#ai-이미지-모델-비교-2026)
 

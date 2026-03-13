@@ -16,7 +16,7 @@ Side-by-side specs, pricing, quality ratings, and real-world use-case recommenda
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-blue.svg)](#)
 [![Models Compared](https://img.shields.io/badge/Models%20Compared-20-green.svg)](#2-specifications-comparison)
-[![Atlas Cloud](https://img.shields.io/badge/Try%20on-Atlas%20Cloud-purple.svg)](https://www.atlascloud.ai?ref=JPM683)
+[![Atlas Cloud](https://img.shields.io/badge/Try%20on-Atlas%20Cloud-purple.svg)](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)
 
 **[English](README.md)** · **[简体中文](README_zh-CN.md)** · **[日本語](README_ja.md)** · **[한국어](README_ko.md)**
 
@@ -69,7 +69,7 @@ We evaluate every model across **three core dimensions**:
 | **Pricing** | Cost per image at every resolution tier | Budget planning & ROI |
 | **Quality** | Photorealism, text rendering, style range, prompt adherence | Final output usability |
 
-> All benchmarks were performed via **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** unified API in March 2026. Pricing reflects Atlas Cloud rates, which include up to **90 % off** official list prices.
+> All benchmarks were performed via **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** unified API in March 2026. Pricing reflects Atlas Cloud rates, which include up to **90 % off** official list prices.
 
 ### Models Under Review
 
@@ -544,7 +544,7 @@ START: What do you need?
 
 ## 7. Quick Start — Try Any Model
 
-All models are accessible through a single **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** API endpoint. Get started in 30 seconds.
+All models are accessible through a single **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)** API endpoint. Get started in 30 seconds.
 
 ### cURL
 
@@ -682,7 +682,7 @@ print(f"LoRA 风格图像: {response.data[0].url}")
 
 It depends on your specific needs:
 - **Best quality:** Imagen4 Ultra (Google)
-- **Best value:** Flux Dev at $0.012/image via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+- **Best value:** Flux Dev at $0.012/image via [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)
 - **Best all-round:** Nano Banana 2 (4K, fast, Google Search, editing)
 - **Best for text/posters:** Seedream v5.0 (ByteDance)
 
@@ -711,7 +711,7 @@ Nano Banana 2 offers several advantages over Midjourney v6:
 
 ### "What is the cheapest AI image API?"
 
-On **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**:
+On **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)**:
 
 | Model | Price / Image |
 |:------|:-------------|
@@ -730,7 +730,7 @@ On **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**:
 
 ### "Which AI can generate NSFW images?"
 
-**Flux Dev** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) provides uncensored generation at **$0.012/image** — the cheapest uncensored option available. **Wan 2.6** can also be self-hosted for unrestricted local generation.
+**Flux Dev** on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison) provides uncensored generation at **$0.012/image** — the cheapest uncensored option available. **Wan 2.6** can also be self-hosted for unrestricted local generation.
 
 ### "Can I use these models for commercial projects?"
 
@@ -738,7 +738,7 @@ Yes. All models on Atlas Cloud are available for commercial use. Flux Dev and Wa
 
 ### "How do I get 90% off Nano Banana 2?"
 
-[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683) offers **up to 90% off official pricing** through optimized infrastructure and volume discounts. Sign up and get a **25% bonus on your first top-up** (up to $100 bonus).
+[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison) offers **up to 90% off official pricing** through optimized infrastructure and volume discounts. Sign up and get a **25% bonus on your first top-up** (up to $100 bonus).
 
 ---
 
@@ -758,7 +758,7 @@ Yes. All models on Atlas Cloud are available for commercial use. Flux Dev and Wa
 
 <br>
 
-### **[Start Free on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**
+### **[Start Free on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison)**
 
 <br>
 
@@ -833,7 +833,7 @@ SOFTWARE.
 
 **Built with data, not hype.**
 
-*Last updated: March 2026 — Prices and capabilities may change. Always verify on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683).*
+*Last updated: March 2026 — Prices and capabilities may change. Always verify on [Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=ai-image-model-comparison).*
 
 [Back to Top](#ai-image-model-comparison-2026)
 
